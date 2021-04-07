@@ -6,7 +6,7 @@
 <p>&emsp;&emsp;🔭 I’m currently working on Java</p>
 <p>&emsp;&emsp;🌱 I’m currently learning React</p>
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=dinhthong173&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp;  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhthong173&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=dinhthong173&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dinhthong173&show_icons=true&theme=radical)&nbsp;  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhthong173&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
  
 
 
